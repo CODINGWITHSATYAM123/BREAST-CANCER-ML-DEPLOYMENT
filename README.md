@@ -1,10 +1,2 @@
-# BREAST-CANCER-ML-DEPLOYMENT
-
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-
-df = pd.read_csv('breast_cancer.csv')
-
-df.head()
+In this model I have predicted the data of Breast Cancer which 
+finds Cancer whether the paitent is a cancer magnet or not?
